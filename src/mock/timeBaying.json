@@ -1,0 +1,12 @@
+{
+    "res_code":0,
+    "res_error":"",
+    "res_body":{
+        "list":[
+            {"id":5,"img":"/images/gooddetailimg_20171030141206585128.jpg","title":"makdak充电宝苹果安卓原装便携自带线充电宝小米华为通用移动...","points":"【1】自带三根线，苹果安卓及自身充电线【2】 苹果官方授权原装线充电线【3】 售后无忧，一年免费保修【4】八种款式任你选择【5】触感柔软便携不厚重【6】锂聚合物固态电池，自身充满仅需三小时【7】type-c接口，小米华为均可用【8】电量标注，Led屏实时电量显示。","priceNow":"249.6","priceOld":"260.0"},
+            {"id":6,"img":"/images/gooddetailimg_20171201151438343872.jpg","title":"GOC IN C 二代小熊充电宝飘带熊棒球熊创意潮流卡通毛绒移...","points":"温馨提示：因为产品批次不同，可能会有不同的包装版本，目前商品库存跟图片一样，具体以收到实物为准。","priceNow":"315.0","priceOld":"318.0"},
+            {"id":7,"img":"/images/gooddetailimg_20180418183903121141.jpg","title":"熊本熊红色盖章苹果硬壳手机壳手机保护套iphone7/plus","points":"手工冰贴 3D浮雕  手感细腻","priceNow":"84.48","priceOld":"88.0"},
+            {"id":8,"img":"/images/gooddetailimg_20180418183250432926.jpg","title":"熊本熊Kumamon酷MA萌惊奇版硅胶苹果系列iphone6/...","points":"防摔 防滑  硅胶  惊奇  可爱  萌","priceNow":"161.28","priceOld":"168.0"}
+        ]
+    }
+}

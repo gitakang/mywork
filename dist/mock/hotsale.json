@@ -1,0 +1,12 @@
+{
+    "res_code" : 0,
+    "res_error":"",
+    "res_body" : {
+        "list" : [
+            {"id":1,"img":"/images/gooddetailimg_20180621165345315102.jpg","title":"城野医生亲研收缩毛孔收敛水控油收敛保湿化妆水日本护肤爽肤水","price":"88.0"},
+            {"id":2,"img":"/images/gooddetailimg_20180621163617924924.jpg","title":"台湾大甲欣兰DMC黑里透白冻膜面膜225G 去黑头深层清洁毛孔舒缓","price":"118.0"},
+            {"id":3,"img":"/images/gooddetailimg_20180620204853437334.JPEG","title":"日本黛珂Cosme Decorte软肌牛油果乳液150ml天然植物补水控油","price":"388.0"},
+            {"id":4,"img":"/images/gooddetailimg_20180620202714004416.JPEG","title":"日本Cosme Decorte黛珂紫苏水化妆水 高机能保湿去痘控油150ml","price":"238.0"}
+        ]
+    }
+}

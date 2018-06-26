@@ -1,0 +1,136 @@
+{
+    "res_code":0,
+    "res_error":"",
+    "res_body":{
+        "list":[
+            {
+                "caption":"美妆个护",
+                "titles":[
+                    {"tile":"面膜面霜","shu":"丨"},
+                    {"tile":"驱蚊止痒","shu":"丨"},
+                    {"tile":"卸妆","shu":"丨"},
+                    {"tile":"防晒隔离","shu":"丨"},
+                    {"tile":"眼膜眼霜","shu":"丨"},
+                    {"tile":"腮红眼影","shu":""}
+                ],
+                "pic":"/images/meizhuanggehu.jpg",
+                "listItem":[
+                    {"id":9,"img":"/images/gooddetailimg_20171205105910710940.jpg","title":"欧舒丹护手霜套装礼盒 乳木果樱花护手霜女滋润补水保湿30ml 法国正品","price":"88.0"},
+                    {"id":10,"img":"/images/gooddetailimg_20180112143451794396.jpg","title":"澳大利亚 Lucas Papaw番木瓜膏润唇膏万用膏保湿滋润万能膏25g ","price":"36.0"},
+                    {"id":11,"img":"/images/gooddetailimg_20180112145453385518.jpg","title":"澳洲Lucas Papaw神奇万用木瓜膏保湿滋润润唇护臀孕妇可用木瓜膏75g","price":"63.0"},
+                    {"id":12,"img":"/images/gooddetailimg_20180123150940995994.jpg","title":"日本Cosme大赏伊诗露esthe dew 樱桃胎盘祛痘化妆水美白保湿爽肤水红蓝绿三色可选500ml","price":"73.0"},
+                    {"id":13,"img":"/images/gooddetailimg_20180124140439142121.jpg","title":"日本M-mark松山油脂身体乳无添加天然柚子精华滋润米糠保湿防干身体乳液300ml","price":"118.0"},
+                    {"id":14,"img":"/images/gooddetailimg_20180125162350906745.jpg","title":"日本Loshi 北海道马油身体乳液滋润补水保湿全身护肤润肤乳485ml","price":"46.0"},
+                    {"id":15,"img":"/images/gooddetailimg_20180206100753739971.jpg","title":"欧缇丽CAUDALIE大葡萄籽活性喷雾爽肤水200ml","price":"98.0"},
+                    {"id":16,"img":"/images/gooddetailimg_20180208175502818469.jpg","title":"日本乐敦CC美白精华液渗透VC维他命C祛痘印痘疤去痘印修复淡斑面部美容液20ml","price":"78.0"}
+                ]
+            },
+            {
+                "caption":"洗护纸品",
+                "titles":[
+                    {"tile":"洁面","shu":"丨"},
+                    {"tile":"口罩","shu":"丨"},
+                    {"tile":"洗发护发","shu":"丨"},
+                    {"tile":"洗眼护眼","shu":"丨"},
+                    {"tile":"口腔护理","shu":"丨"},
+                    {"tile":"纸巾湿纸","shu":""}
+                ],
+                "pic":"/images/xihuzhijin.jpg",
+                "listItem":[
+                    {"id":17,"img":"/images/gooddetailimg_20171219093118843893.jpg","title":"汉高施华蔻Theramed站立按压式牙膏银蓝绿100ml","price":"32.0"},
+                    {"id":18,"img":"/images/gooddetailimg_20171205160208162629.jpg","title":"日本KAO花王婴幼儿童木糖醇防蛀护齿牙膏水果草莓葡萄哈密瓜味安全可吞咽牙膏70g","price":"23.0"},
+                    {"id":19,"img":"/images/gooddetailimg_20180323131350368560.jpg","title":"日本原装KAO花王儿童泡沫洗手液婴幼儿宝宝消毒水果香植物柑橘250ml","price":"36.0"},
+                    {"id":20,"img":"/images/gooddetailimg_20171023122826055828.jpg","title":"日本进口树之惠足贴30片天然树液去湿气 中村足美人艾草祛湿驱寒","price":"98.0"},
+                    {"id":21,"img":"/images/gooddetailimg_20171212150233670524.jpg","title":"日本pitta mask明星鹿晗同款口罩防尘霾花粉柳絮PM2.5易呼吸透气可清洗男女儿童黑白色潮款","price":"43.0"},
+                    {"id":22,"img":"/images/gooddetailimg_20171205160529250740.jpg","title":"日本花王KAO 牙齿健康 超效去除牙垢 防蛀美白 薄荷牙膏 165g2","price":"38.0"},
+                    {"id":23,"img":"/images/gooddetailimg_20171025165849316148.jpg","title":"韩国LG Banboo Salts PUMPING 倍瑞奥竹盐派缤按压式成人液体牙膏清新亮白防蛀285g","price":"45.0"},
+                    {"id":24,"img":"/images/gooddetailimg_20180426145556909921.JPEG.jpg","title":"日本妮飘nepia鼻子贵族柔软保湿手帕纸抽纸","price":"32.0"}
+                ]
+            },
+            {
+                "caption":"居家生活",
+                "titles":[
+                    {"tile":"笔","shu":"丨"},
+                    {"tile":"水杯","shu":"丨"},
+                    {"tile":"暖手宝","shu":"丨"},
+                    {"tile":"雨伞雨具","shu":"丨"},
+                    {"tile":"剃须刀","shu":"丨"},
+                    {"tile":"净化器","shu":""}
+                ],
+                "pic":"/images/jaijushenghuo.jpg",
+                "listItem":[
+                    {"id":25,"img":"/images/gooddetailimg_20170928144602081106.jpg","title":"日本象印 儿童吸管杯 粉红胖子宝宝双盖两用保温杯SC-ZT45-RA/PA 450ml","price":"338.0"},
+                    {"id":26,"img":"/images/gooddetailimg_20171201124746379814.jpg","title":"paper mate缤乐美四色圆珠笔多色笔彩色笔芯学生 0.7按动原子笔Q1","price":"15.0"},
+                    {"id":27,"img":"/images/gooddetailimg_20171201151438343872.jpg","title":"新西兰GRANS REMEDY老奶奶臭脚粉运动皮鞋子除脚汗味脚臭克星","price":"66.0"},
+                    {"id":28,"img":"/images/gooddetailimg_20171121101110630348.jpg","title":"GOC IN C智能APP控温充电暖手宝五芒星熊摇滚熊防护热水袋","price":"338.0"},
+                    {"id":29,"img":"/images/gooddetailimg_20180531100051877108.jpg","title":"派克IM金属灰白夹墨水笔","price":"98.0"},
+                    {"id":30,"img":"/images/gooddetailimg_20180601113039461818.jpg","title":"Bear小熊旋钮调温多用途电热锅DRG-C123","price":"169.0"},
+                    {"id":31,"img":"/images/gooddetailimg_20171018135954883397.jpg","title":"Paper Mate缤乐美意趣针管笔直液式水笔0.5中性笔签字笔","price":"12.0"},
+                    {"id":32,"img":"/images/gooddetailimg_20171018141537330546.jpg","title":"Paper Mate缤乐美子弹头笔芯 0.5mm按动中性笔芯黑红蓝三色学生水笔芯P1","price":"7.0"}
+                ]
+            },
+            {
+                "caption":"3C数码",
+                "titles":[
+                    {"tile":"手机壳","shu":"丨"},
+                    {"tile":"移动电源","shu":"丨"}
+                ],
+                "pic":"/images/3C.jpg",
+                "listItem":[
+                    {"id":33,"img":"/images/gooddetailimg_20171027160509379995.jpg","title":"GOC IN C 二代小熊充电宝飘带熊棒球熊创意潮流卡通毛绒移动电源10000毫安","price":"315.0"},
+                    {"id":34,"img":"/images/gooddetailimg_20171030141206585128.jpg","title":"makdak充电宝苹果安卓原装便携自带线充电宝小米华为通用移动电源","price":"249.6"},
+                    {"id":35,"img":"/images/gooddetailimg_20171027154901154205.jpg","title":"GOCINC 兔子熊充电宝潮流卡通毛绒移动电源10000毫安","price":"278.0"},
+                    {"id":36,"img":"/images/gooddetailimg_20171027163422978452.jpg","title":"GOC IN C 拳击熊充电宝创意通用充电器毛绒公仔小熊移动电源8000毫安","price":"318.0"},
+                    {"id":37,"img":"/images/gooddetailimg_20171030093300792202.jpg","title":"GOC IN C  摇滚熊充电宝创意通用充电器毛绒公仔小熊移动电源8000毫安","price":"318.0"},
+                    {"id":38,"img":"/images/gooddetailimg_20180418183250432926.jpg","title":"正版熊本熊红绿色圣诞手机壳苹果系列情侣款 iphone7/8plus/X","price":"88.0"},
+                    {"id":39,"img":"/images/gooddetailimg_20180418183903121141.jpg","title":"熊本熊红色盖章苹果硬壳手机壳手机保护套iphone7/plus","price":"84.48"},
+                    {"id":40,"img":"/images/gooddetailimg_20180425150259273329.jpg","title":"熊本熊Kumamon酷MA萌惊奇版硅胶苹果系列iphone6/7s/plus手机壳","price":"161.28"}
+                ]
+            },
+            {
+                "caption":"服饰箱包",
+                "titles":[
+                    {"tile":"T恤","shu":"丨"},
+                    {"tile":"打底","shu":"丨"},
+                    {"tile":"防晒","shu":"丨"},
+                    {"tile":"袜子","shu":"丨"},
+                    {"tile":"行李箱","shu":"丨"},
+                    {"tile":"单肩/背包","shu":""}
+                ],
+                "pic":"/images/fuzhuang.jpg",
+                "listItem":[
+                    {"id":41,"img":"/images/gooddetailimg_20180423200659839796.jpg","title":"ATSUGI厚木连裤袜子80D110D140D春秋薄款光发热两双","price":"83.0"},
+                    {"id":42,"img":"/images/gooddetailimg_20180423192306696859.jpg","title":"新款日本Moko Poio牛奶美肌衣牛奶美肤内衣保暖保湿嫩肤打底秋衣裤何穗同款","price":"83.0"},
+                    {"id":43,"img":"/images/gooddetailimg_20180423175743575806.jpg","title":"日本女人的欲望防晒套袖加长袖套黑色款","price":"63.0"},
+                    {"id":44,"img":"/images/gooddetailimg_20180501140959047339.jpg","title":"大嘴猴袜子男士浅口船袜2双装","price":"39.0"},
+                    {"id":45,"img":"/images/gooddetailimg_20180501143040296645.jpg","title":"大嘴猴男袜男士精梳棉中筒袜夏季运动袜4双装","price":"49.0"},
+                    {"id":46,"img":"/images/gooddetailimg_20180501182031527491.jpg","title":"大嘴猴女袜女士加长长筒条纹袜2双装","price":"39.0"},
+                    {"id":47,"img":"/images/gooddetailimg_20180501184849974515.jpg","title":"大嘴猴男袜低帮短筒运动船袜4双装 ","price":"79.0"},
+                    {"id":48,"img":"/images/gooddetailimg_20180501191521696674.jpg","title":"大嘴猴男士袜子男中筒条纹袜2双装","price":"39.0"}
+                ]
+            },
+            {
+                "caption":"影漫周边",
+                "titles":[
+                    {"tile":"配件","shu":"丨"},
+                    {"tile":"杯子","shu":"丨"},
+                    {"tile":"手办","shu":"丨"},
+                    {"tile":"COSPLAY","shu":"丨"},
+                    {"tile":"一人之下","shu":"丨"},
+                    {"tile":"世界杯","shu":""}
+                ],
+                "pic":"/images/model.jpg",
+                "listItem":[
+                    {"id":49,"img":"/images/gooddetailimg_20180416103608532386.jpg","title":"《变形金刚5》 正版授权 限量款 大黄蜂 Sqweeks 星巴克杯子","price":"39.9"},
+                    {"id":50,"img":"/images/gooddetailimg_20180416140551663399.jpg","title":"正义联盟正版授权可动公仔 手办 摆件","price":"48.0"},
+                    {"id":51,"img":"/images/gooddetailimg_20180523134924409872.jpg","title":"一人之下动漫周边限定礼盒：环保袋/本子/徽章/贴纸/盒子","price":"85.3"},
+                    {"id":52,"img":"/images/gooddetailimg_20171208155717524018.jpg","title":"雷神3正版玻璃公仔杯 玻璃杯 杯子绿巨人款 雷神款","price":"49.9"},
+                    {"id":53,"img":"/images/gooddetailimg_20180524124927444666.JPEG.jpg","title":"洁柔纸面巾定制《一人之下》漫粉软抽3层120抽整箱12包销售抽纸巾","price":"49.9"},
+                    {"id":54,"img":"/images/gooddetailimg_20180612154832294618.jpg","title":"2018俄罗斯世界杯周边马克杯球迷纪念品礼品酒吧水杯陶瓷杯子","price":"65.0"},
+                    {"id":55,"img":"/images/gooddetailimg_20171127142817381628.png","title":"魔兽世界-毁灭之锤锌合金电镀仿古做旧钥匙链挂饰","price":"39.9"},
+                    {"id":56,"img":"/images/gooddetailimg_20171211123508499572.JPEG.jpg","title":"#魔兽世界#正版授权 限量款 魔兽世界 毁灭之锤1:1版","price":"199.0"}
+                ]
+            }
+        ]
+    }
+}
