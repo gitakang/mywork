@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/load.css">
+    <link rel="stylesheet" href="/css/login.css">
+    <title>Yuki动漫-用户登录</title>
+</head>
+<body>
+    <!-- 网页头部 -->
+    <div id="header"></div>
+    <!-- 网页主体 -->
+    <div class="content">
+        <div class="login_box">
+            <div class="login">
+                <form class="log_form" method="post">
+                    <ul>
+                        <li class="log_head">
+                            <span>Yuki账号登录</span>
+                        </li>
+                        <li class="info">
+                            <div class="info_txt">
+                                <img src="/images/error.png">
+                                <span class="err"></span>
+                            </div>
+                        </li>
+                        <li class="phoneNum bar">
+                                <div class="img">
+                                    <img src="/images/icon_user.png">
+                                </div>
+                                <input type="text" name="username" class="log_phone" placeholder="手机号码">
+                        </li>
+                        <li class="repeat bar">
+                            <div class="img">
+                                <img src="/images/icon_password2.png">
+                            </div>
+                            <input type="password" name="password" class="log_password" placeholder="输入密码">
+                        </li>
+                        <li class="log_now">
+                            <button type="button" class="loginer">
+                                登录
+                            </button>
+                        </li>
+                        <li class="forget">
+                            <span>忘记密码？</span>
+                            <a href="/html/register.html">去注册</a>
+                        </li>
+                        <li class="other_log">
+                            <div></div>
+                            <span>其他方式登录</span>
+                        </li>
+                        <li class="log_last">
+                            <div class="weibo">
+                                <div class="pic"></div>
+                                <span>微博</span>
+                            </div>
+                            <div class="qq">
+                                <div class="pic1"></div>
+                                <span>QQ</span>
+                            </div>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- 弹窗提示 -->
+    <div class="ups">
+        账号或密码有误！
+    </div>
+    <!-- 网页尾部 -->
+    <div class="footer"></div>
+    <script src="/lib/require/require.js" data-main="/js/login"></script>
+</body>
+</html>

@@ -1,7 +1,15 @@
 /*加载头部、尾部*/
-define(["jquery"],function(){
+define(["jquery","cookie"],function(){
     $(function(){
         $("#header").load("/html/include/loadHeader.html",function(){
+            $.cookie.json = true;
+            if ($.cookie("products")){
+                let lens = $.cookie("products").length;
+                    $(".amounts").text(lens);
+            }  else {
+                $(".amounts").text(0);
+            }
+
             $(".searchs").on("keyup",function(){
                 const txt =$(this).val();
                 const url = `https://suggest.taobao.com/sug?code=utf-8&q=${txt}&callback=?`;

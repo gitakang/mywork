@@ -1,13 +1,6 @@
 require(["config"],function(){
     require(["jquery","arttemplate","load","fly","cookie"],function($,template){
         $(function(){
-            $.cookie.json = true;
-            if ($.cookie("products")){
-                let lens = $.cookie("products").length;
-                    $(".amounts").text(lens);
-            }  else {
-                $(".amounts").text(0);
-            }
             //轮播图
             $(function(){
                 let lis = $("li",".banaers"),
@@ -167,6 +160,7 @@ require(["config"],function(){
             			}
             		});
                 //加入购物车使用cookie
+                $.cookie.json = true;
                 const prod = {
                     id : $(this).data("id"),
                     img : $(this).parent().parent().find('img').attr('src'),

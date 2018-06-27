@@ -1,0 +1,132 @@
+html,body,div,ul,li,h1,h2,h3,h4,h5,h6,p,span,i,a,img{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+fieldset,img{
+    border: none;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+
+//网页主体
+.content{
+    width: 100%;
+    height: 570px;
+    background: url(/images/bgi.png);
+    border:1xp solid;
+    .reg_box{
+        width: 1170px;
+        height: 570px;
+        margin: 0 auto;
+        .regiter{
+            width: 380px;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+            float: right;
+            margin-top:45px;
+            background: white;
+            padding: 40px;
+            ul{
+                li{
+                    margin-bottom: 20px;
+                    color: #e5e5e5;
+                }
+                .bar{
+                    border: 1px solid #e5e5e5;
+                    border-radius: 5px;
+                    width: 100%;
+                    height: 40px;
+                    padding: 5px;
+                    .img{
+                        float: left;
+                        width: 30px;
+                        border-right: 1px solid #e5e5e5;
+                    }
+                    input{
+                        outline: none;
+                        border: none;
+                        margin-left: 10px;
+                        font-size: 12px;
+                    }
+                }
+                .check{
+                    width: 100%;
+                    height: 40px;
+                    .lef{
+                        height: 40px;
+                        float: left;
+                        border: 1px solid #e5e5e5;
+                        border-radius: 5px;
+                        padding: 5px;
+                        .img{
+                            float: left;
+                            width: 30px;
+                            border-right: 1px solid #e5e5e5;
+                        }
+                        input{
+                            outline: none;
+                            border: none;
+                            margin-left: 10px;
+                            font-size: 12px;
+                            width: 120px;
+                        }
+                    }
+                    .verCode{
+                        float: right;
+                        width: 120px;
+                        height: 40px;
+                        border-radius: 5px;
+                        background: #6699cc;
+                        line-height: 40px;
+                        color: white;
+                        font-size: 18px;
+                        text-align: center;
+                        cursor: pointer;
+                    }
+                }
+                .reg_head{
+                    span{
+                        font-size: 20px;
+                        color: #666666;
+                    }
+                    a{
+                        font-size: 12px;
+                        text-decoration: underline;
+                        color: #999;
+                        float: right;
+                        margin-top: 8px;
+                    }
+                }
+                .info{
+                    height: 20px;
+                    margin:0;
+                    display: none;
+                    .info_txt{
+                        float: left;
+                        width: 100%;
+                        height: 20px;
+                        color: black;
+                        font-size: 12px;
+                        line-height: 20px;
+                    }
+                }
+                .reg_now{
+                    button{
+                        width: 300px;
+                        height: 48px;
+                        border:none;
+                        border-radius: 5px;
+                        background: #6699cc;
+                        color: white;
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+    }
+}

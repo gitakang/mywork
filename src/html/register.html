@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/load.css">
+    <link rel="stylesheet" href="/css/register.css">
+    <title>Yuki动漫-用户注册</title>
+</head>
+<body>
+    <!-- 网页头部 -->
+    <div id="header"></div>
+    <!-- 网页主体 -->
+    <div class="content">
+        <div class="reg_box">
+            <div class="regiter">
+                <form class="reg_form" method="post">
+                    <ul>
+                        <li class="reg_head">
+                            <span>新用户注册</span>
+                            <a href="/html/login.html">已有账号</a>
+                        </li>
+                        <li class="info">
+                            <div class="info_txt">
+                                <img src="/images/error.png">
+                                <span class="err"></span>
+                            </div>
+                        </li>
+                        <li class="phoneNum bar">
+                                <div class="img">
+                                    <img src="/images/icon_user.png">
+                                </div>
+                                <input id="phone_number" name="username" type="text" placeholder="手机号码">
+                        </li>
+                        <li class="check">
+                            <div class="lef">
+                                <div class="img">
+                                    <img src="/images/icon_phon e.png">
+                                </div>
+                                <input class="enter" type="text" placeholder="输入验证码">
+                            </div>
+                            <div class="verCode"></div>
+                        </li>
+                        <li class="set bar">
+                            <div class="img">
+                                <img src="/images/icon_password1.png">
+                            </div>
+                            <input class="set_password" name="password" type="password" placeholder="设置密码">
+                        </li>
+                        <li class="repeat bar">
+                            <div class="img">
+                                <img src="/images/icon_password2.png">
+                            </div>
+                            <input class="repeat_password" type="password" placeholder="重复密码">
+                        </li>
+                        <li class="reg_now">
+                            <button class="click_reg" type="button" name="button">
+                                立即注册
+                            </button>
+                        </li>
+                    </ul>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- 网页尾部 -->
+    <div class="footer"></div>
+    <script src="/lib/require/require.js" data-main="/js/register"></script>
+</body>
+</html>

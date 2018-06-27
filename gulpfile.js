@@ -20,6 +20,12 @@ gulp.task("js",function(){
         .pipe(gulp.dest("dist/js"))
         .pipe(connect.reload());
 });
+//复制php文件到dist目录下。让js能够拿到php数据
+gulp.task("php",function(){
+    gulp.src("src/php/**/*.php")
+        .pipe(gulp.dest("dist/php"))
+        .pipe(connect.reload());
+});
 
 //复制lib目录到dist下
 gulp.task("copy-lib",function(){
@@ -54,4 +60,4 @@ gulp.task("watch",function(){
     gulp.watch("src/js/**/*.js",["js"]);
 });
 //定制默认（缺省）任务
-gulp.task("default",["html","js","sass","copy","connect","watch"]);
+gulp.task("default",["html","js","php","sass","copy","connect","watch"]);
